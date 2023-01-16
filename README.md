@@ -20,3 +20,6 @@ c b dbw dnb cbd bd b sajb ddsmn dwmnmn
 bmw car
 audi car
 skoda superb
+auto 
+taxi
+bus
